@@ -1,2 +1,4 @@
-![Logo](http://altterra.space/images/Main1.png)
-### <p align="center"> [Перейти на сайт](http://altterra.space/)
+<p align="center"> 
+<a href="http://www.altterra.space/">
+<img src="http://altterra.space/images/AltterraGit.png">
+</a>
